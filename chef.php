@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Daniel Byiringiro and Julia Mc-Addy -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Farmer's Produce</title>
@@ -43,7 +44,7 @@
         </ol>
         <p>This client-server interaction allows for dynamic and interactive display of produce data on the webpage.</p>
     </div>
-    
+
     <label for="produce-type">Select Produce Type:</label>
     <select id="produce-type" onchange="fetchAndDisplayProduce()">
         <option value="">-- Select Type --</option>

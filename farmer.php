@@ -1,5 +1,8 @@
 <?php
 
+// Daniel Byiringiro and Julia Mc-Addy 
+
+
 // Farmer's data
 $FARMER_PRODUCES = array(
     'vegetables' => array('carrot', 'potato', 'tomato', 'onion', 'garlic'),
